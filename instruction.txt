@@ -1,0 +1,18 @@
+
+
+[add to stage] git add filename
+
+[commit to current branch] fit commit -f " message "
+
+[] git push
+
+
+---->
+
+[show all] git branch -a
+[show current] git branch
+
+[create] git brach xxx
+[change] git checkout xxx
+
+
